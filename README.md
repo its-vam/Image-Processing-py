@@ -5,8 +5,9 @@ This is a simple image processing tool built with OpenCV in Python. It allows yo
 ## Installation
 
 To use this tool, make sure you have Python and OpenCV installed. You can install OpenCV using pip:
+pip install opencv-python.
 
-##Usage
+## Usage
 
 Clone the repository or download the code.
 Run the script in your terminal:
@@ -14,7 +15,7 @@ Run the script in your terminal:
 
 Follow the on-screen instructions to load an image and choose an operation.
 
-##Features
+## Features
 
 - Resize an image to specified dimensions.
 - Crop a region of interest from an image.
